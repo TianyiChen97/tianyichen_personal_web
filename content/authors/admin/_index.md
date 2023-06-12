@@ -27,7 +27,7 @@ bio: My research interests include classical statistics,inference on network dat
 # Interests to show in About widget
 interests:
   - classical statistics
-  - network data ex: email data
+  - network data
   - pattern recognition
 
 # Education to show in About widget
