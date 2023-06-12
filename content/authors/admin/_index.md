@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate at Johns Hopkins
+role: PhD Candidate at Johns Hopkins
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,12 +22,12 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include classical statistics, inference on network data, pattern recognition
+bio: My research interests include classical statistics,inference on network data,pattern recognition
 
 # Interests to show in About widget
 interests:
   - classical statistics
-  - network data ex: email data, connectome data
+  - network data ex: email data
   - pattern recognition
 
 # Education to show in About widget
